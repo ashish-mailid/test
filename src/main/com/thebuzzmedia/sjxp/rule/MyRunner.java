@@ -48,6 +48,6 @@ public class MyRunner {
         }
 
         return handler.getUsers();
-        // SELECT * FROM XMLDOCUMENT
+        SELECT * FROM
     }
 }

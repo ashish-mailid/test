@@ -36,6 +36,8 @@ public class JaxbExample
              
             //Writes XML file to file-system
             jaxbMarshaller.marshal(employee, file); 
+         getObject
+          rs.last()
         } 
         catch (JAXBException e) 
         {

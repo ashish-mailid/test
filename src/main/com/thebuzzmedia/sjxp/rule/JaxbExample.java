@@ -38,7 +38,7 @@ public class JaxbExample
             jaxbMarshaller.marshal(employee, file); 
          getObject
           rs.last()
-          String name = firstName + lastName;
+          string + ;
           Iterator it = names.iterator();
         } 
         catch (JAXBException e) 

@@ -14,7 +14,7 @@ public class MyRunner {
     private SAXParser createSaxParser() {
 
         SAXParser saxParser = null;
-String name = firstname + " " + lastname;
+string name = firstname + " " + lastname;
 
         try {
 

@@ -38,6 +38,8 @@ public class JaxbExample
             jaxbMarshaller.marshal(employee, file); 
          getObject
           rs.last()
+          string +
+          .iterator()
         } 
         catch (JAXBException e) 
         {

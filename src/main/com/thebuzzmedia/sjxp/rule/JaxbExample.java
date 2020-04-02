@@ -36,8 +36,8 @@ public class JaxbExample
              
             //Writes XML file to file-system
             jaxbMarshaller.marshal(employee, file); 
-         getObject
-          rs.last()
+         System.out.println(myFirstCs.getObject());
+          System.out.println(rs.last());
          String + ;
           Iterator it = names.iterator();
         } 

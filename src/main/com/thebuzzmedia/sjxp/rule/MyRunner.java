@@ -49,6 +49,6 @@ String name = firstname + " " + lastname;
         }
 
         return handler.getUsers();
-        SELECT * FROM
+        Query="SELECT * FROM STUDENT";
     }
 }

@@ -38,6 +38,15 @@
     <version>2.3.0-jaxb-1.0.6</version>
 </dependency>
 		<dependency>
+  <groupId>io.micrometer</groupId>
+  <artifactId>micrometer-registry-dynatrace</artifactId>
+</dependency>
+<dependency>
+    <groupId>com.moelholm</groupId>
+    <artifactId>prometheus-spring-boot-starter</artifactId>
+    <version>1.0.2</version>
+</dependency>
+		<dependency>
     		<groupId>org.apache.commons</groupId>
     		<artifactId>commons-csv</artifactId>
     		<version>1.8</version>

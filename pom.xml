@@ -37,15 +37,7 @@
     <artifactId>dom</artifactId>
     <version>2.3.0-jaxb-1.0.6</version>
 </dependency>
-		<dependency>
-  <groupId>io.micrometer</groupId>
-  <artifactId>micrometer-registry-dynatrace</artifactId>
-</dependency>
-<dependency>
-    <groupId>com.moelholm</groupId>
-    <artifactId>prometheus-spring-boot-starter</artifactId>
-    <version>1.0.2</version>
-</dependency>
+
 		<dependency>
     		<groupId>org.apache.commons</groupId>
     		<artifactId>commons-csv</artifactId>
@@ -70,16 +62,7 @@
     <artifactId>jaxb-api</artifactId>
     <version>2.1</version>
 </dependency>
-<dependency>
-  <groupId>io.micrometer</groupId>
-  <artifactId>micrometer-core</artifactId>
-  <version>1.6.1</version>
-</dependency>
-<dependency>
-  <groupId>com.microsoft.azure</groupId>
-  <artifactId>applicationinsights-core</artifactId>
-  <version>2.6.2</version>
-</dependency>
+
 		
 		<dependency>
 		  <groupId>org.eclipse.mylyn.github</groupId>
@@ -128,11 +111,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 	</dependency>
-		<dependency>
-    <groupId>org.springframework.cloud</groupId>
-    <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
-    <version>2.2.6.RELEASE</version>
-</dependency>
+	
 	<dependency>
             <groupId>org.springframework.plugin</groupId>
             <artifactId>spring-plugin-core</artifactId>
